@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Drone Privacy?
+title: Drone Privacy
 ---
 
 Unmanned Aerial Vehicles (UAV) or more popularly ‘drones’ are a game changing marvel of technology representing a world of possibilities for innovation and utilisation, especially during the ongoing coronavirus pandemic, where this technology can prove to be useful for contactless operations in the wake of the exigent need to reduce human contact as a health precaution. However, the drone regulations in India are still at a stage of infancy and the question that becomes vital in this scenario is whether India’s nonchalance with regard to drone laws is setting it back by decades? The article attempts to answer the question by analysing the viability of the numerous features of India’s drone policy while also highlighting the accompanying challenges that encumber India’s drone sector from reaching its full potential. The article also deals with the interplay between privacy issues and the usage of drones, and lays down certain modifications needed in the current law.
