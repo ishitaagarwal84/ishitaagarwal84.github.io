@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a 5th year law student at NLU Jodhpur. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like cooking, long drives and sitcoms!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ishitaagarwalnluj@gmail.com](mailto:email@domain.com)
