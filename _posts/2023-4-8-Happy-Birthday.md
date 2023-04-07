@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy Birthday Ishita Agarwal!
+title: Happy Birthday
 ---
 
 Janamdin ki hardik shubhkaamnaayein!
