@@ -11,8 +11,9 @@ But coming back to you - I hope you don't cry on your birthday this time. At lea
 
 Meanwhile, here's a small gift from my end as I had to make use of all the photos that I have of you in my phone:
 
-<p float="middle">
+<div style="text-align: center;">
   <img src="/images/Ishi.jpg" width="575" height="600" />
-</p>
+</div>
+
 
 Once again, happy birthday Ishita!
